@@ -1,4 +1,4 @@
-const Discord = require("discord.js");
+const Discord = require("discord.js"); //my nama jeff
 const bot = new Discord.Client();
 const Scrambo = require("scrambo");
 const cube = new Scrambo();
